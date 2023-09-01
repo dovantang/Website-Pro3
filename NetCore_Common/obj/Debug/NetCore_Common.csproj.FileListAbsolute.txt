@@ -1,0 +1,6 @@
+D:\Learn\MVC\NetCore_MVC\NetCore_Common\bin\Debug\NetCore_Common.dll
+D:\Learn\MVC\NetCore_MVC\NetCore_Common\bin\Debug\NetCore_Common.pdb
+D:\Learn\MVC\NetCore_MVC\NetCore_Common\obj\Debug\NetCore_Common.csproj.AssemblyReference.cache
+D:\Learn\MVC\NetCore_MVC\NetCore_Common\obj\Debug\NetCore_Common.csproj.CoreCompileInputs.cache
+D:\Learn\MVC\NetCore_MVC\NetCore_Common\obj\Debug\NetCore_Common.dll
+D:\Learn\MVC\NetCore_MVC\NetCore_Common\obj\Debug\NetCore_Common.pdb

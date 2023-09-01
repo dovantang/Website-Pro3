@@ -1,0 +1,865 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MV230466\\.nuget\\packages\\bootstrap\\5.3.1\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NetCore_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NetCore_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Admin\\login.js",
+      "PackagePath": "staticwebassets\\Admin\\login.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\DataTable\\datatables.css",
+      "PackagePath": "staticwebassets\\Common\\DataTable\\datatables.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\DataTable\\datatables.js",
+      "PackagePath": "staticwebassets\\Common\\DataTable\\datatables.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\DataTable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\Common\\DataTable\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\DataTable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Common\\DataTable\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\Jquery\\jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\Common\\Jquery\\jquery-3.7.0.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Common\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\booking.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\booking.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\destination-1.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\destination-2.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\destination-3.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\destination-4.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\footer.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\footer.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\package-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\package-1.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\package-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\package-2.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\package-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\package-3.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\js\\main.js",
+      "PackagePath": "staticwebassets\\Content\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Content\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Content\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Content\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Content\\travel-agency-html-template.jpg",
+      "PackagePath": "staticwebassets\\Content\\travel-agency-html-template.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\234.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\234.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\avt.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avt.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\avt1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avt1.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\avt2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avt2.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\avt3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avt3.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\avt4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avt4.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\Uploads\\avt5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avt5.jpg"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Learn\\MVC\\NetCore_MVC\\NetCore_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NetCore_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NetCore_MVC.props",
+      "PackagePath": "build\\NetCore_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NetCore_MVC.props",
+      "PackagePath": "buildMultiTargeting\\NetCore_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NetCore_MVC.props",
+      "PackagePath": "buildTransitive\\NetCore_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

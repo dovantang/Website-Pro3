@@ -1,0 +1,140 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.1" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="jQuery" Version="3.7.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.21" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.21" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.21">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="QRCoder" Version="1.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCore_Common\NetCore_Common.csproj" />
+    <ProjectReference Include="..\NetCore_Model\NetCore_Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Admin\login.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.rtl.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.rtl.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.rtl.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.rtl.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.rtl.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.rtl.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.rtl.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.rtl.min.css" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.esm.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\Common\bootstrap-5.0.2-dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\Common\DataTable\datatables.css" />
+    <None Include="wwwroot\Common\DataTable\datatables.js" />
+    <None Include="wwwroot\Common\DataTable\datatables.min.css" />
+    <None Include="wwwroot\Common\DataTable\datatables.min.js" />
+    <None Include="wwwroot\Common\Jquery\jquery-3.7.0.min.js" />
+    <None Include="wwwroot\Content\css\bootstrap.min.css" />
+    <None Include="wwwroot\Content\css\style.css" />
+    <None Include="wwwroot\Content\img\about.jpg" />
+    <None Include="wwwroot\Content\img\bg-hero.jpg" />
+    <None Include="wwwroot\Content\img\booking.jpg" />
+    <None Include="wwwroot\Content\img\destination-1.jpg" />
+    <None Include="wwwroot\Content\img\destination-2.jpg" />
+    <None Include="wwwroot\Content\img\destination-3.jpg" />
+    <None Include="wwwroot\Content\img\destination-4.jpg" />
+    <None Include="wwwroot\Content\img\package-1.jpg" />
+    <None Include="wwwroot\Content\img\package-2.jpg" />
+    <None Include="wwwroot\Content\img\package-3.jpg" />
+    <None Include="wwwroot\Content\img\team-1.jpg" />
+    <None Include="wwwroot\Content\img\team-2.jpg" />
+    <None Include="wwwroot\Content\img\team-3.jpg" />
+    <None Include="wwwroot\Content\img\team-4.jpg" />
+    <None Include="wwwroot\Content\img\testimonial-1.jpg" />
+    <None Include="wwwroot\Content\img\testimonial-2.jpg" />
+    <None Include="wwwroot\Content\img\testimonial-3.jpg" />
+    <None Include="wwwroot\Content\img\testimonial-4.jpg" />
+    <None Include="wwwroot\Content\js\main.js" />
+    <None Include="wwwroot\Content\lib\animate\animate.css" />
+    <None Include="wwwroot\Content\lib\animate\animate.min.css" />
+    <None Include="wwwroot\Content\lib\easing\easing.js" />
+    <None Include="wwwroot\Content\lib\easing\easing.min.js" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\ajax-loader.gif" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.carousel.css" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.carousel.min.css" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.theme.default.css" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.theme.default.min.css" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.theme.green.css" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.theme.green.min.css" />
+    <None Include="wwwroot\Content\lib\owlcarousel\assets\owl.video.play.png" />
+    <None Include="wwwroot\Content\lib\owlcarousel\LICENSE" />
+    <None Include="wwwroot\Content\lib\owlcarousel\owl.carousel.js" />
+    <None Include="wwwroot\Content\lib\owlcarousel\owl.carousel.min.js" />
+    <None Include="wwwroot\Content\lib\tempusdominus\css\tempusdominus-bootstrap-4.css" />
+    <None Include="wwwroot\Content\lib\tempusdominus\css\tempusdominus-bootstrap-4.min.css" />
+    <None Include="wwwroot\Content\lib\tempusdominus\js\moment-timezone.min.js" />
+    <None Include="wwwroot\Content\lib\tempusdominus\js\moment.min.js" />
+    <None Include="wwwroot\Content\lib\tempusdominus\js\tempusdominus-bootstrap-4.js" />
+    <None Include="wwwroot\Content\lib\tempusdominus\js\tempusdominus-bootstrap-4.min.js" />
+    <None Include="wwwroot\Content\lib\waypoints\links.php" />
+    <None Include="wwwroot\Content\lib\waypoints\waypoints.min.js" />
+    <None Include="wwwroot\Content\lib\wow\wow.js" />
+    <None Include="wwwroot\Content\lib\wow\wow.min.js" />
+    <None Include="wwwroot\Content\travel-agency-html-template.jpg" />
+    <None Include="wwwroot\Uploads\234.jpg" />
+    <None Include="wwwroot\Uploads\avt.jpg" />
+    <None Include="wwwroot\Uploads\avt1.jpg" />
+    <None Include="wwwroot\Uploads\avt2.jpg" />
+    <None Include="wwwroot\Uploads\avt3.jpg" />
+    <None Include="wwwroot\Uploads\avt4.jpg" />
+    <None Include="wwwroot\Uploads\avt5.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Scripts\" />
+  </ItemGroup>
+
+</Project>

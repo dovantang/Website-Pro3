@@ -1,0 +1,59 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <style>
+        #video {
+            width: 100%;
+        }
+
+        .is-hidden {
+            display: none;
+        }
+
+        .iconfont {
+            font-size: 24px;
+        }
+
+        .btns {
+            margin-bottom: 10px;
+        }
+
+        button {
+            font-size: 22px;
+            padding: 8px 10px;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+        }
+
+        .video-screenshot {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-column-gap: 10px;
+        }
+
+        footer {
+            margin: 20px 0;
+            font-size: 16px;
+        }
+    </style>
+
+<div class="btns">
+	<button class="button is-hidden" id=btnPlay>Play camera</button>
+	<button class="button" id="btnPause">Stop camera</button>
+	<button class="button" id="btnScreenshot">Chụp hình</button>
+	<button class="button" id="btnChangeCamera" style="padding: 6px 10px;">Đổi camera</button>
+</div>
+<div class="video-screenshot">
+	<video autoplay id="video"></video>
+	<div>
+		<div id="screenshotsContainer">
+			<canvas id="canvas" class="is-hidden"></canvas>
+		</div>
+	</div>
+</div>
+@section scripts{
+	<script src="~/admin/login.js"></script>
+}
+

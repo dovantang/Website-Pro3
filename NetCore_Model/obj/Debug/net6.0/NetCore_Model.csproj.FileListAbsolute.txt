@@ -1,0 +1,14 @@
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\bin\Debug\net6.0\NetCore_Model.deps.json
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\bin\Debug\net6.0\NetCore_Model.dll
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\bin\Debug\net6.0\NetCore_Model.pdb
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.csproj.AssemblyReference.cache
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.AssemblyInfoInputs.cache
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.AssemblyInfo.cs
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.csproj.CoreCompileInputs.cache
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.dll
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\refint\NetCore_Model.dll
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.pdb
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\ref\NetCore_Model.dll
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\bin\Debug\net6.0\NetCore_Model.runtimeconfig.json
+D:\Learn\MVC\NetCore_MVC\NetCore_Model\obj\Debug\net6.0\NetCore_Model.genruntimeconfig.cache
